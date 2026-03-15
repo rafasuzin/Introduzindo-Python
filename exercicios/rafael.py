@@ -29,3 +29,7 @@ print(f"{nome:8} tem {idade:03} anos e R${grana:4.2f} no bolso")
 print(f"{nome:8} tem {idade:3} anos e R${grana:4.1f} no bolso")
 
 print(f"{nome:<8} tem {idade:<3} anos e R${grana:<4.2f} no bolso")
+
+
+
+# isso é um teste de commit
